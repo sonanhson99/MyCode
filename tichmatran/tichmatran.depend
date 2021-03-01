@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600867829 source:d:\hoctap\tichmatran\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+
